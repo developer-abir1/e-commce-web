@@ -1,9 +1,17 @@
 
 
 
-a{
+.shoping_btn{
     text-decoration: none;
-    transition: ease all .3s;
+    background-image: linear-gradient(#A4BC46, #86A11C);
+    color: white;
+    padding:20px;
+    border: none;
+    font-size: 25px;
+    border-radius: 10px;
+}
+.shoping_btn img{
+    width:20px;
 }
 
 h1, h2{
@@ -19,7 +27,7 @@ h1, h2{
 
 .text-gold{
     color: #FABE4C !important;
-  font-size: 40px;
+ 
 }
 
 
